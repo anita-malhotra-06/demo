@@ -1,0 +1,8 @@
+GIT Demo project created
+Main branch: master
+Initial Commit
+New Branch created: staging
+Merge staging branch into Master branch.
+Push the commits
+
+
